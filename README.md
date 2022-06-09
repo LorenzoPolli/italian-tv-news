@@ -60,7 +60,7 @@ Other useful packages that I have installed together with their dependencies are
 For this part, in addition to some of the aforementioned packages, it is necessary to install scikit-learn in order to apply **LDA and NMF**. If you want to filter out stop words and visualize nice word clouds, it is also necessary to install the stop_words and wordcloud packages.
 
 Nevertheless, to install all the packages used to develop my project, you can find the requirements.txt file under my project repository and save the content on your computer. Then, just follow the next steps
-1. Activate your virtualenv
+1. Activate your virtual environment
 2. *cd* to the directory where requirements.txt is located
 3. Run in your console
 ```sh
